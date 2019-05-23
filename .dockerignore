@@ -1,0 +1,9 @@
+bin/build.sh
+Dockerfile
+README.md
+.git
+.gitignore
+
+build/
+node_modules
+npm-debug.log

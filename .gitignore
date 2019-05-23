@@ -1,0 +1,16 @@
+node_modules
+npm-debug.log
+build
+docker-build
+*.DS_Store
+*.swp
+
+yarn-error.log
+selenium-debug.log
+
+test/e2e/reports
+coverage
+.yalc
+yalc.lock
+
+.env
